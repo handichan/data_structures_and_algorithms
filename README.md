@@ -6,10 +6,12 @@ Below is a concise list of essential Python data structures and algorithms commo
 ## Resources
  - [Visual Algorithms](https://visualgo.net/en)
  - [Data Structures using Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
+ - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
 ## Anaconda Installation & Environment Setup
 
 Follow these steps to install Anaconda and set up your Python environment.
+Download Anaconda from [here](https://www.anaconda.com/download)
 
 ### Create and activate environment, install jupyterlab
 
