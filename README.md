@@ -8,6 +8,13 @@ Below is a concise list of essential Python data structures and algorithms commo
  - [Data Structures using Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
  - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
+## Clone this Git repository
+
+Navigate to your local directory, where you will start your project. Then clone the project
+```bash
+git clone https://github.com/handichan/data_structures_and_algorithms.git
+cd data_structures_and_algorithms
+```
 
 ## Anaconda Installation & Environment Setup
 
@@ -19,9 +26,8 @@ Download Anaconda from [here](https://www.anaconda.com/download)
 Create a new environment (replace `myenv` with your desired environment name and choose your preferred Python version):
 
 ```bash
-git clone https://github.com/handichan/data_structures_and_algorithms.git
-
 conda create --name myenv python=3.12
 conda activate myenv
 conda install -c conda-forge jupyterlab
 jupyter lab
+```
