@@ -4,9 +4,10 @@
 Below is a concise list of essential Python data structures and algorithms commonly used in computer science, problem-solving, software development, and competitive programming. I’ll split them into data structures and algorithms, then provide explanations and Python code
 
 ## Resources
+ - [15 mins. explanation on DS](https://www.youtube.com/watch?v=O9v10jQkm5c)
+ - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
  - [Visual Algorithms](https://visualgo.net/en)
  - [Data Structures using Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
- - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
 
 ## Clone this Git repository
 
