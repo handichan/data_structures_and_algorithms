@@ -5,7 +5,7 @@ Below is a concise list of essential Python data structures and algorithms commo
 
 ## Resources
  - [15 mins. explanation on DS](https://www.youtube.com/watch?v=O9v10jQkm5c)
- - [Famous Harvard CS50](https://www.youtube.com/watch?v=LfaMVlDaQ24)
+ - [FAMOUS Harvard CS50](https://www.youtube.com/watch?v=LfaMVlDaQ24)
  - [CS Dojo](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
  - [Visual Algorithms](https://visualgo.net/en)
  - [Data Structures using Python](https://github.com/OmkarPathak/Data-Structures-using-Python)
